@@ -1,18 +1,15 @@
-*Instructions: Click on the raw button in the upper right hand corner of this box.  Copy and paste the template into the README.md document on your github.  Fill in the titles, information and links where prompted! Feel free to stray a bit to suit your project but try to stick to the format as closely as possible for consistency across DSWG projects.*
-
-# Project Name
+# Crime Data Analysis Of New York City
 This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: Active
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The fundamental goal of our project is to build a model that canpredict the crime based on different categories such as the location,the time of occurrence, the level of crime.  The predictive analysis helps in predictingthe level of crime that is the type of crime that can be predictedon a given location at a certain time. 
 
 ### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
+* Praksha Maheshwari
+* Rutvik Pansare
+* Vishal Phaugat
 
 ### Methods Used
 * Inferential Statistics
@@ -21,27 +18,19 @@ The purpose of this project is ________. (Describe the main goals of the project
 * Predictive Modeling
 * etc.
 
-### Technologies
-* R 
+### Technologies 
 * Python
-* D3
 * PostGres, MySql
 * Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
-
+*The NYPD has made all the crime data available from the year 2006to 2021 (current year) for public interest. The motivation behind taking up this topic for the project is tomake the society threat safe. We will use big data analytics on the given historic data and analyze the patterns and trends in crimeover the years. The predicted results might not be 100% accuratebut they will surely help to reduce crime rates to some extent in NYC.
 ## Needs of this project
 
-- frontend developers
 - data exploration/descriptive statistics
 - data processing/cleaning
 - statistical modeling
 - writeup/reporting
-- etc. (be as specific as possible)
 
 ## Getting Started
 
@@ -57,24 +46,4 @@ The purpose of this project is ________. (Describe the main goals of the project
 
 5. Follow setup [instructions](Link to file)
 
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
 
-
-## Contributing DSWG Members
-
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
-
-#### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
-
-## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
